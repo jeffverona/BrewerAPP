@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrewerApp</string>
+    <string name="categoria_produto">Categoria :</string>
+    <string name="valor_produto">Valor(R$) :</string>
+    <string name="nome_produto">Produto :</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_cancelar">Cancelar</string>
+    <string name="tela_cadastro">Cadastrar Produto</string>
+    <string name="tela_principal">Produtos</string>
+</resources>
